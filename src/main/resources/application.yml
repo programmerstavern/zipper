@@ -1,0 +1,10 @@
+logging:
+  pattern:
+    console:
+
+spring:
+  main:
+    banner-mode: off
+  shell:
+    history:
+      enabled: false
